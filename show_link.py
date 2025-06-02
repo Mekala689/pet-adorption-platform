@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+print("=" * 50)
+print("🐾 PET ADOPTION PLATFORM")
+print("=" * 50)
+print("URL: http://127.0.0.1:8000/")
+print("")
+print("Login Credentials:")
+print("• Adopter: john_doe / adopter123")
+print("• Shelter: happypaws_shelter / shelter123") 
+print("• Admin: admin / admin123")
+print("=" * 50)
+print("Copy the URL above and paste in your browser")
+print("=" * 50)
